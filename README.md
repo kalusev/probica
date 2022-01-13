@@ -14,6 +14,10 @@ Zatim, idete na dugme Remote Explorer  i posle idete na dugme **+**, kako biste 
 
 ![ssh remote](https://user-images.githubusercontent.com/97163298/149327937-c341e141-8355-418d-b92a-bbe046043be0.png)
 
+U slučaju da Vam se pojavi novi prozor Select the platform of the remote host izaberite opciju Linux.
+
+![ssh remote](https://user-images.githubusercontent.com/97163298/149331345-bb557ade-3b60-4be3-907b-352bb92967aa.png)
+
 
 
 
