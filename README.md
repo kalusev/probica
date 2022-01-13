@@ -20,6 +20,8 @@ U slučaju da Vam se pojavi novi prozor Select the platform of the remote host i
 
 Sada bi trebalo da u gornjem levom uglu ispod **SSH TARGETS** vidite da je konfigurisan remote host **147.91.175.237**.
 
+![ssh targets](https://user-images.githubusercontent.com/97163298/149331859-91721f41-58a3-465f-bd41-b42066a68612.png)
+
 
 
 
