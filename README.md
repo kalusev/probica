@@ -1,4 +1,4 @@
-# Tutorijal za uspostavljanje konekcije sa serverom (SSH Remote) preko Visual Studio Code-a
+# Tutorijal za uspostavljanje konekcije sa serverom (SSH Remote) pomoću alata Visual Studio Code
 
 Prerequisites:
 
