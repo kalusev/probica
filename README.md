@@ -10,7 +10,7 @@ Posle, uspešne instalacije, pokrenete Visual Studio Code i odete na dugme Exten
 
 ![install ssh](https://user-images.githubusercontent.com/97163298/149329928-f53f269b-55f3-4cd6-8241-5739232d2f45.png)
 
-Zatim, idete na dugme Remote Explorer  idete na dugme +, kako biste konfigurisali vezu, otvoriće Vam se novi prozor gde je potrebno da ukucate **ssh username@147.91.175.237 -p 52626** (username zamenite sa Vama dodeljenim username-om).
+Zatim, idete na dugme Remote Explorer  i posle idete na dugme **+**, kako biste konfigurisali vezu, otvoriće Vam se novi prozor gde je potrebno da ukucate **ssh username@147.91.175.237 -p 52626** (username zamenite sa Vama dodeljenim username-om).
 
 ![ssh remote](https://user-images.githubusercontent.com/97163298/149327937-c341e141-8355-418d-b92a-bbe046043be0.png)
 
