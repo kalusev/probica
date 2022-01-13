@@ -30,7 +30,7 @@ Zatim kliknete na dugme Connect to host in new window koje će Vam otvoriti novi
 
 U slučaju da ste uspešno uspostavili vezu sa serverom u donjem desnom uglu će vam biti prikazano oznaka servera **147.91.175.237** u zelenoj boji.
 
-![image](https://user-images.githubusercontent.com/97163298/149333830-4bb22b17-f96a-4a33-83f3-df0632119abc.png)
+![connected](https://user-images.githubusercontent.com/97163298/149339823-33dc8abc-a641-4e44-874d-23bf8b472ebf.png)
 
 
 
