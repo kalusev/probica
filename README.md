@@ -22,6 +22,8 @@ Sada bi trebalo da u gornjem levom uglu ispod **SSH TARGETS** vidite da je konfi
 
 ![ssh targets](https://user-images.githubusercontent.com/97163298/149331859-91721f41-58a3-465f-bd41-b42066a68612.png)
 
+Zatim kliknete na dugme Connect to host in new window koje će Vam otvoriti novi prozor gde je potrebno da ukucate **password** koji će Vam kao i username biti dodeljen od strane administratora. U slučaju da ste uspešno uspostavili vezu sa serverom u donjem desnom uglu će vam biti prikazano oznaka servera **147.91.175.237** u zelenoj boji.
+
 
 
 
