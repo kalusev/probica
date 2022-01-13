@@ -8,7 +8,7 @@ Administratori su Slobodan Ilić, Milovan Medojević i Ilja Popović.
 
 Potrebno je prvo da instalirate Visual Studio Code odlaskom na link https://code.visualstudio.com/download i da izaberete odgovarajuću verziju, u skladu sa Vašim operativnim sistemom.
 
-![vscode download](https://user-images.githubusercontent.com/97163298/149322222-1ae4f62f-e358-440e-afe5-f9d3780dff6d.png)
+![vscode download](https://user-images.githubusercontent.com/97163298/149396599-b37bb79d-1383-41ec-aa66-4772ff096491.png)
 
 Posle, uspešne instalacije, pokrenete Visual Studio Code i odete na dugme Extension Marketplace, kako biste instalirali Remote SSH Plugin. U search polje ukucajte remote ssh, odaberete odgovarajući paket i u desnom prozoru kliknete na install.
 
