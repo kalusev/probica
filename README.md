@@ -6,7 +6,7 @@ Potrebno je prvo da instalirate Visual Studio Code odlaskom na link https://code
 
 Posle, uspešne instalacije, pokrenete Visual Studio Code i odete na dugme Extension Marketplace, kako biste instalirali Remote SSH Plugin. U search polje ukucajte remote ssh, odaberete odgovarajući paket i u desnom prozoru kliknete na install.
 
-![extesion market](https://user-images.githubusercontent.com/97163298/149329451-ee04ebe6-3374-4404-9b4b-09943bbed226.png)
+![extesion market](https://user-images.githubusercontent.com/97163298/149338976-71dc7d4c-d842-49c2-bd4b-4035504ee236.png)
 
 ![install ssh](https://user-images.githubusercontent.com/97163298/149329928-f53f269b-55f3-4cd6-8241-5739232d2f45.png)
 
