@@ -26,7 +26,7 @@ Zatim kliknete na dugme Connect to host in new window koje će Vam otvoriti novi
 
 ![connect to host](https://user-images.githubusercontent.com/97163298/149333475-2a664b09-b3d4-49cf-af8d-909a220e4c5c.png)
 
-![pass](https://user-images.githubusercontent.com/97163298/149334496-b51f8a47-b9c7-4aee-b137-fdd11f626378.png)
+![pass](https://user-images.githubusercontent.com/97163298/149334966-fd8483c7-9cb8-4cef-b671-830d84ef1bcd.png)
 
 U slučaju da ste uspešno uspostavili vezu sa serverom u donjem desnom uglu će vam biti prikazano oznaka servera **147.91.175.237** u zelenoj boji.
 
