@@ -1,3 +1,3 @@
 # probica
-![ScreenShot](/home/punk/BRAINS/tutorijal/vscodedownload.png)
+![Alt text](/home/punk/BRAINS/tutorijal/vscodedownload.png)
 
