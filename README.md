@@ -1,6 +1,6 @@
 # Tutorijal za uspostavljanje konekcije sa serverom (SSH Remote) pomoću alata Visual Studio Code
 
-Prerequisites:
+PREREQUISITES:
 
 Neophodno je da su Vam dodeljeni username i password kako bi ste mogli da pristupite serveru. Potrebno je da se obratite administratoru na Slack kanal **#general** kako bi Vam se dodelili username i password.
 
